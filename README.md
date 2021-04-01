@@ -1,5 +1,4 @@
 # legendary-alex
-!---Doctype-->
 <DOCKTYPE HTML>
 <html>
 <head>
