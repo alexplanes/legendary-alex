@@ -1,15 +1,13 @@
-# legendary-alex
 <DOCKTYPE HTML>
 <html>
 <head>
-<title>AIRBSMART MINING LIMITED</title>
-</head>
 <h1>
   <span
   style="color:blue">
 AIRBSMART COIN MINING AND INVESTMENT COMPANY
 </span>
 </h1>
+</head>
 <body>
   <body align="left">
 <body bgcolor
